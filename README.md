@@ -5,7 +5,6 @@ This Txt File That I Currently Use On Minecraft Bedrock And It Will Lower Input 
 
 
 
-
 Releases:
 https://github.com/Zingierlitle/My-Optimized-option.txt/releases
 
